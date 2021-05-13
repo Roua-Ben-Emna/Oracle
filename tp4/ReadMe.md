@@ -297,7 +297,7 @@ from tester;
 ```
 
  ```sql
-grant  table on emp
+grant  select on emp
 to tester;
 ```
  
